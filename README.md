@@ -1,5 +1,3 @@
-## maaz_s_application9
-
 Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 ## Description
